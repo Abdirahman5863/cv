@@ -1,0 +1,91 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    background-color:rgb(60, 56, 56);
+    width: 100%;
+    
+
+    
+}
+.box1{
+    width: 50%;
+    background-color:aliceblue;
+    display: flex;
+    flex-direction: row;
+
+}
+.box2{
+    width: 40%;
+    background-color:black ;
+}
+.box3{
+    width: 60%;
+    background-color: antiquewhite;
+}
+.profile
+{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+color: aliceblue;
+}
+
+
+
+
+.Image{
+    width:100px;
+    height: 100px;
+    border-radius: 60%;
+    
+}
+
+span{
+    color: aqua;
+}
+.contact{
+    color: aliceblue;
+}
+.skill{
+    color: aliceblue;
+}
+.education{
+    color: aliceblue;
+}
+.box3{
+    display: flex;
+    flex-direction: column;
+    justify-content:start ;
+    align-items:start;
+    color:black;
+}
+
+.myprofile{
+    color:rgb(197, 36, 36);
+    display: flex;
+    flex-direction:column;
+align-items: center;
+justify-content: center;
+}
+.me{
+    text-align: center;
+    padding: 10px;
+    color: rgb(37, 20, 86);
+}
+.workexperience{
+    color: rgb(222, 5, 5);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-items: center;
+    justify-content: center;
+}
+.work{text-align: center;
+    padding: 10px;
+    color: rgb(21, 15, 86);
+
+
+}
